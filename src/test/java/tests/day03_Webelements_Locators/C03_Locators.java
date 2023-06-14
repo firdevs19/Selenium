@@ -50,6 +50,9 @@ public class C03_Locators {
         }
 
 
+
+
+
        // 6- Sayfayi kapatin
 
         Thread.sleep(3000);
