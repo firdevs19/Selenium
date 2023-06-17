@@ -64,7 +64,7 @@ public class P01 {
 
         //  Close/quit the browser
 
-        driver.close();
+        driver.quit();
 
         System.out.println("All is well");
 
